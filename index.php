@@ -5,8 +5,8 @@
         
 <body bodybackground="hope.jpg">
 <h1 align="center">
-<br><br><br><br><br>
-TODAY AND TOMORROW
+<br><br><br><br><br><br><br><br>
+<b>TODAY AND TOMORROW</b>
 </br>   
 </h1>
 </body>
