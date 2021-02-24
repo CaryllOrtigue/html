@@ -2,11 +2,12 @@
 <head>
         <title> homepage </title>
 </head>    
-<body bodybackground="homepage.jpg">
+<body bodybackground="today.jpg">
 <h1 align="center">
-<br><br><br><br><br><br><br><br>
-<b>TODAY AND TOMORROW</b>
-</br>   
+Today and Tomorrow
 </h1>
+<h2 align="center">
+<b>WELCOME TO OUR HOMEPAGE</b>
+</h2>
 </body>
 </hmtl>
