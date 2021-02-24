@@ -2,7 +2,6 @@
 <head>
         <title> homepage </title>
 <body background="today.jpg">
-<p align="center">
 </head>    
 <body>
 <h1 align="center">
