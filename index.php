@@ -1,8 +1,11 @@
+<?php
+$bg = "today.jpg";
+?>
 <html>
 <head>
         <title> homepage </title>
         <style>
-body {background-image: url(‘today.jpg’);}
+body {background-image: url('<?php echo $bg;?>');
 </style>
 </head>    
 <body>
