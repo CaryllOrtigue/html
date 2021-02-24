@@ -1,8 +1,11 @@
 <html>
 <head>
         <title> homepage </title>
+        <style>
+body {background-image: url(‘today.jpg’);}
+</style>
 </head>    
-<body bodybackground="today.jpg">
+<body>
 <h1 align="center">
 Today and Tomorrow
 </h1>
