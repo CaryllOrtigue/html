@@ -5,7 +5,10 @@ $bg = "today.jpg";
 <head>
         <title> homepage </title>
         <style>
-body {background-image: url('<?php echo $bg;?>');
+body {
+background-image: url('<?php echo $bg;?>');
+background-repeat: no-repeat;
+}
 </style>
 </head>    
 <body>
