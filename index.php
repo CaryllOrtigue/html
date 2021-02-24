@@ -3,7 +3,7 @@
         <title> homepage </title>
 </head>
         
-<body bgcolor="black">
+<body bgcolor="teal">
 <h1 align="center">
 TODAY AND TOMORROW
         
