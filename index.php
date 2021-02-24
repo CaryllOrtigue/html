@@ -1,8 +1,8 @@
 <html>
 <head>
         <title> homepage </title>
+</head>
 <body background="dawn.jpg">
-</head>    
 <body>
 <h1 align="center">
 Today and Tomorrow
