@@ -1,15 +1,8 @@
-<?php
-$bg = "today.jpg";
-?>
 <html>
 <head>
         <title> homepage </title>
-        <style>
-body {
-background-image: url('<?php echo $bg;?>');
-background-repeat: no-repeat;
-}
-</style>
+<body background="today.jpg">
+<p align="center">
 </head>    
 <body>
 <h1 align="center">
